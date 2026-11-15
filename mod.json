@@ -1,0 +1,19 @@
+
+{
+    "geode": "5.11.2"
+    "gd": {
+        "android": "2.2081"
+    },
+    "id": "zcb.life",
+    "name": "ZCB Life",
+    "version": "1.0.0",
+    "developer": "ZCB",
+    "description": "ZCB Life - CPS and click tools",
+    "api": "2.0.0",
+    "tags": [
+        "utility"
+    ],
+    "dependencies": {
+        "geode.node-ids": ">=1.0.0"
+    }
+}
